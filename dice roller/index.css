@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+h1{
+    color:blue;
+}
+
+label  {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+button{
+    font-size: 1.2em;
+    color: aqua;
+    background-color: blue;
+
+}
+button:hover {
+    background-color:rgb(58, 58, 226);
+}
+input{
+    font-size: 0.9em;
+    text-align: center;
+    font-weight: bold;
+}
+#diceImages img{
+    width: 150px;
+    margin: 5px;
+}
+#diceResult {
+    font-weight: bold;
+    font-size: 1.5em;
+}
